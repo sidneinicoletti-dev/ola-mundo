@@ -4,3 +4,5 @@
  Repositório criado durante uma aula ao vivo.
 
 Modifiquei o README.md remotamente. Que legal!!!
+
+Testando o termial. 
